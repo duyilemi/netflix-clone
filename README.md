@@ -1,7 +1,6 @@
 # Netflix Clone
 
-website [Netflix Clone]
-(https://netflix-clone-d64be.web.app/)
+website [Netflix Clone](https://netflix-clone-d64be.web.app/)
 
 ## Description
 
