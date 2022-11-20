@@ -2,6 +2,9 @@
 
 website [Netflix Clone](https://netflix-clone-d64be.web.app/)
 
+**You can sign up with any random email address and password**
+
+
 
 ## Description
 
