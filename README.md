@@ -33,7 +33,7 @@ To install the extension, click the Install In Console button.
 * Stripe Account, and a subscription product to go with it
 * Synchronised products with Stripe and our Firestore Database
 * Set up a way of accepting subscription payments with Stripe
-* Synchronised customer AND subscription data between Stripe and Firebase
+* Synchronised customer and subscription data between Stripe and Firebase
 * Added custom claims to Firebase users to determine whether they are free or premium customers
 
 
