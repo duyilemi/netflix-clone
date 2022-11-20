@@ -11,7 +11,7 @@ website [Netflix Clone](https://netflix-clone-d64be.web.app/)
 A full-stack website where customers can pay a monthly subscription fee to access site's premium features
 
 Accepting payments online can seem like a daunting task, with considerations such as security, conversion rates and tax, there is a lot to consider.
-In this project, we'll use firebase stripe extension to simplify the process of taking subscription payments online and how we can exclusively provide paying customers access to premium content.
+In this project, we'll implement firebase stripe extension to simplify the process of taking subscription payments online and how we can exclusively provide paying customers access to premium content.
 
 
 ## Getting Started
