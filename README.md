@@ -2,6 +2,7 @@
 
 website [Netflix Clone](https://netflix-clone-d64be.web.app/)
 
+
 ## Description
 
 A full-stack website where customers can pay a monthly subscription fee to access site's premium features
@@ -27,6 +28,15 @@ One thing to note before we install this extension: To use Cloud functions (whic
 It's unlikely that you'll incur any cost more than a few cents (or maybe dollars) unless you have a significant user base, but you should always set-up budgets and budget alerts to make sure you don't blow the bank.
 
 To install the extension, click the Install In Console button.
+
+### Built with
+
+* ReactJs - A JavaScript library for building user interfaces
+* Redux - A predictable state container for JavaScript apps
+* TMDB - The Movie database API
+* Firebase - an app development platform
+* Google Authetication
+* Stripe
 
 ### Prerequisites
 
